@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+groq
+chromadb
+sentence-transformers
+pypdf
+python-docx
+passlib[bcrypt]
+python-dotenv
+pydantic
+pytest

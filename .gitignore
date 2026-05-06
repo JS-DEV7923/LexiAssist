@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/chroma/*
+data/sqlite/*
+data/uploads/*
+!data/chroma/.gitkeep
+!data/sqlite/.gitkeep
+!data/uploads/.gitkeep
