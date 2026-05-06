@@ -1,4 +1,4 @@
-# LexiAssist v1
+LexiAssist v1
 
 LexiAssist is a local-first legal document QA application built with Streamlit, ChromaDB, and pluggable LLM providers.  
 It uses a Retrieval-Augmented Generation (RAG) pipeline to answer user questions with citation-linked evidence from uploaded PDF/DOCX files.
@@ -18,6 +18,12 @@ It uses a Retrieval-Augmented Generation (RAG) pipeline to answer user questions
 - ChromaDB
 - Gemini API (`google-generativeai`) or Groq API (`groq`)
 - SQLite
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5e57d50f-c0a2-4c49-b3ee-793be4b6de77" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/d0493e13-ac8e-45bd-bc83-4f4615636479" />
+
+
 
 ## Setup
 
