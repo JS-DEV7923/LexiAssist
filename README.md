@@ -19,11 +19,16 @@ It uses a Retrieval-Augmented Generation (RAG) pipeline to answer user questions
 - Gemini API (`google-generativeai`) or Groq API (`groq`)
 - SQLite
 
-<div style="display: flex; gap: 20px; padding: 20px;">
-  <img src="https://github.com/user-attachments/assets/5e57d50f-c0a2-4c49-b3ee-793be4b6de77" alt="image 1" style="width: 50%; border-radius: 8px;" />
-  <img src="https://github.com/user-attachments/assets/5e57d50f-c0a2-4c49-b3ee-793be4b6de77" alt="image 2" style="width: 50%; border-radius: 8px;" />
-</div>
-
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/5e57d50f-c0a2-4c49-b3ee-793be4b6de77" width="100%" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/d0493e13-ac8e-45bd-bc83-4f4615636479" width="100%" />
+    </td>
+  </tr>
+</table>
 ## Setup
 
 1. Create and activate a virtual environment.
