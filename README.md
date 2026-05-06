@@ -20,8 +20,8 @@ It uses a Retrieval-Augmented Generation (RAG) pipeline to answer user questions
 - SQLite
 
 <div style="display: flex; gap: 20px; padding: 20px;">
-  <img src="image1.png" alt="image 1" style="width: 50%; border-radius: 8px;" />
-  <img src="image2.png" alt="image 2" style="width: 50%; border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/5e57d50f-c0a2-4c49-b3ee-793be4b6de77" alt="image 1" style="width: 50%; border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/5e57d50f-c0a2-4c49-b3ee-793be4b6de77" alt="image 2" style="width: 50%; border-radius: 8px;" />
 </div>
 
 ## Setup
